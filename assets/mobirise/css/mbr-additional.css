@@ -1130,6 +1130,48 @@ section.lazy-placeholder:after {
 .cid-s43ZyNKdUQ .mbr-section-subtitle {
   color: #767676;
 }
+.cid-s44rggqFuv {
+  padding-top: 60px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/mercadopagosep2-1134x250.jpg");
+}
+.cid-s44rggqFuv [class^="socicon-"]:before,
+.cid-s44rggqFuv [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-s44rggqFuv .btn-social {
+  font-size: 20px;
+  border-radius: 50%;
+  padding: 0;
+  width: 44px;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  position: relative;
+  color: #232323;
+  cursor: pointer;
+  border-color: #149dcc;
+}
+.cid-s44rggqFuv .btn-social i {
+  top: 0;
+  line-height: 44px;
+  width: 44px;
+}
+.cid-s44rggqFuv .btn-social:hover {
+  color: #fff;
+  background: #149dcc;
+}
+.cid-s44rggqFuv .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+.cid-s44rggqFuv .btn-social + .btn {
+  margin-left: .1rem;
+}
+@media (max-width: 767px) {
+  .cid-s44rggqFuv .btn {
+    font-size: 20px !important;
+  }
+}
 .cid-s3ByuLPCz8 {
   padding-top: 90px;
   padding-bottom: 90px;
