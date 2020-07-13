@@ -55,13 +55,16 @@
     "uniqCompNum": 43,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": false,
     "": "on",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "imageResize": true
+    "imageResize": true,
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-49862532-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-49862532-2');\n</script>\n",
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
