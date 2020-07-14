@@ -18,7 +18,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 3rem;
   font-display: swap;
 }
@@ -34,7 +34,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.5rem;
   font-display: swap;
 }
@@ -544,8 +544,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 .form-control {
   font-family: 'Roboto', sans-serif;
