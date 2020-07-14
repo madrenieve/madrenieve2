@@ -62,7 +62,7 @@
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://madrenieve.github.io/madrenieve2/",
     "imageResize": false,
-    "google-analytics": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-PZ7XBVV');</script>\n<!-- End Google Tag Manager -->",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-49862532-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-49862532-2');\n</script>\n",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
