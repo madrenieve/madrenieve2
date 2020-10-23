@@ -575,32 +575,6 @@ blockquote {
 .mbr-form .input-group-btn button[type="submit"]:hover {
   box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2);
 }
-.form2 .form-control {
-  border-top-left-radius: 100px;
-  border-bottom-left-radius: 100px;
-}
-.form2 .input-group-btn a.btn {
-  border-top-left-radius: 0 !important;
-  border-bottom-left-radius: 0 !important;
-}
-.form2 .input-group-btn button[type="submit"] {
-  border-top-left-radius: 0 !important;
-  border-bottom-left-radius: 0 !important;
-}
-.form3 input[type="email"] {
-  border-radius: 100px !important;
-}
-@media (max-width: 349px) {
-  .form2 input[type="email"] {
-    border-radius: 100px !important;
-  }
-  .form2 .input-group-btn a.btn {
-    border-radius: 100px !important;
-  }
-  .form2 .input-group-btn button[type="submit"] {
-    border-radius: 100px !important;
-  }
-}
 @media (max-width: 767px) {
   .btn {
     font-size: .75rem !important;
@@ -1131,48 +1105,6 @@ section.lazy-placeholder:after {
 }
 .cid-s43ZyNKdUQ .mbr-section-subtitle {
   color: #767676;
-}
-.cid-s44rggqFuv {
-  padding-top: 60px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/mercadopagosep2-1134x250.jpg");
-}
-.cid-s44rggqFuv [class^="socicon-"]:before,
-.cid-s44rggqFuv [class*=" socicon-"]:before {
-  line-height: 44px;
-}
-.cid-s44rggqFuv .btn-social {
-  font-size: 20px;
-  border-radius: 50%;
-  padding: 0;
-  width: 44px;
-  height: 44px;
-  line-height: 44px;
-  text-align: center;
-  position: relative;
-  color: #232323;
-  cursor: pointer;
-  border-color: #149dcc;
-}
-.cid-s44rggqFuv .btn-social i {
-  top: 0;
-  line-height: 44px;
-  width: 44px;
-}
-.cid-s44rggqFuv .btn-social:hover {
-  color: #fff;
-  background: #149dcc;
-}
-.cid-s44rggqFuv .btn-social:hover i.socicon {
-  color: #ffffff !important;
-}
-.cid-s44rggqFuv .btn-social + .btn {
-  margin-left: .1rem;
-}
-@media (max-width: 767px) {
-  .cid-s44rggqFuv .btn {
-    font-size: 20px !important;
-  }
 }
 .cid-s9yZ8XkB3Y {
   padding-top: 90px;
